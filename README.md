@@ -7,3 +7,4 @@ Ardently involved in creating data model implemented data transformation and cal
 
 PBIX FILE :https://drive.google.com/file/d/1WQ82JKTzH73S7H3XjG-TWtjszcT8fHO4/view?usp=sharing
 CANVA LINK:https://drive.google.com/file/d/1OMwwpPdm3IQmxilqpP0xbR6sBy_0jl86/view?usp=sharing
+PBIX PDF :https://drive.google.com/file/d/1c35eb3svDbziJ_I2zqYH7h-I5VCkQEGd/view?usp=sharing
