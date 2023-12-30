@@ -1,5 +1,5 @@
-# UNP-Project-BI-with-Power-BI_Human_Attrition
-Completed this project as part of my Bi With Power Bi value added course with United Network Of Professionals.
+# UNP-Project-BI-with-Power-BI_Human_Resource_Data
+Completed this project as part of value added course with United Network Of Professionals.
 
 Key Highlights:
 1: Contributed to the development of intricate KPI'S and Dynamic, interactive Power Bi Interfaces.
